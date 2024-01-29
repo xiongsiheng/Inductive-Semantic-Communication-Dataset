@@ -1,0 +1,57 @@
+Q: Which player, born in Peterborough, has played for both Peterborough United F.C. and the Northern Ireland national under-21 football team?
+A: Lee Clarke
+Facts:
+Lee_Clarke, playsFor, Peterborough_United_F.C.
+Lee_Clarke, playsFor, Northern_Ireland_national_under-21_football_team
+Lee_Clarke, wasBornIn, Peterborough
+
+
+Q: Which player has been affiliated with both Peterborough United F.C. and St Albans City F.C.?
+A: Godfrey_Ingram
+Facts:
+Godfrey_Ingram, isAffiliatedTo, Peterborough_United_F.C.
+Godfrey_Ingram, isAffiliatedTo, St_Albans_City_F.C.
+
+
+Q: Which university, located in the United States, has alumni who have won the Nobel Memorial Prize in Economic Sciences?
+A: Harvard University
+Facts:
+Eric Maskin, graduatedFrom, Harvard University
+Eric Maskin, hasWonPrize, Nobel Memorial Prize in Economic Sciences
+Harvard University, isLocatedIn, United States
+
+
+Q: Which U.S. state is home to both a renowned university and a city where a former First Lady was born and died?
+A: New York City
+Facts:
+Harvard University, isLocatedIn, United States
+Eleanor Roosevelt, wasBornIn, New York City
+Eleanor Roosevelt, diedIn, New York City
+New York City, isLocatedIn, United States
+
+
+Q: In which city, a notable comedian who both influenced Rip Taylor and starred in 'The Champion (1915)' was born?
+A: London
+Facts:
+Charlie_Chaplin, wasBornIn, London
+Charlie_Chaplin, influences, Rip_Taylor
+Charlie_Chaplin, actedIn, The_Champion_(1915_film)
+
+
+Q: Which filmmaker, who both directed and composed music for a film titled 'City Lights', shares an award with Claude Lévi-Strauss?
+A: Charlie_Chaplin, directed, City_Lights
+Facts:
+Charlie_Chaplin, wroteMusicFor, City_Lights
+Claude_Lévi-Strauss, hasWonPrize, Erasmus_Prize
+Charlie_Chaplin, hasWonPrize, Erasmus_Prize
+
+
+Q: Which football club is based in the same city where Gianfranco Dell'Innocenti, the individual who was born and died?
+A: F.C. Esperia Viareggio
+Facts:
+F.C._Esperia_Viareggio, isLocatedIn, Viareggio
+Gianfranco_Dell'Innocenti, diedIn, Viareggio
+Gianfranco_Dell'Innocenti, wasBornIn, Viareggio
+
+
+
