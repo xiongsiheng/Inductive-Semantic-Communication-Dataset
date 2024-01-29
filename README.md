@@ -1,5 +1,5 @@
-# Semantic Communication
+# Inductive-Semantic Communication Dataset
 
-## Dataset
+## Introduction
 
-We provide the dataset used in our experiments here.
+We provide the dataset used in our inductive-semantic communication experiments here.
