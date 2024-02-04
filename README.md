@@ -1,4 +1,4 @@
-# Inductive-Semantic Communication Dataset
+# Inductive Semantic Communication Dataset
 
 
 ## Introduction
