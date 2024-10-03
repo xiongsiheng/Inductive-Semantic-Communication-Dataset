@@ -11,12 +11,10 @@ If you find it useful, please cite our paper.
 
 ## Citation
 ```
-@misc{saz2024modeltheoretic,
-      title={Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication}, 
-      author={Ahmet Faruk Saz and Siheng Xiong and Yashas Malur Saidutta and Faramarz Fekri},
-      year={2024},
-      eprint={2401.17556},
-      archivePrefix={arXiv},
-      primaryClass={cs.IT}
+@article{saz2024model,
+  title={Model-Theoretic Logic for Mathematical Theory of Semantic Information and Communication},
+  author={Saz, Ahmet Faruk and Xiong, Siheng and Saidutta, Yashas Malur and Fekri, Faramarz},
+  journal={arXiv preprint arXiv:2401.17556},
+  year={2024}
 }
 ```
